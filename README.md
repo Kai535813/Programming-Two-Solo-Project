@@ -17,7 +17,7 @@ Anyone who want to play with a simple modling software for building molecules.
 The most difficult part of this project will probably be getting the right atoms to bond with each other, and then display that onto the screen.
 
 ## GUI Mockup
-
+![](https://github.com/Kai535813/Programming-Two-Solo-Project/blob/main/Photos/SMD.png?raw=true)
 ## UML
 
 # NYT Connections
