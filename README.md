@@ -37,6 +37,6 @@ Anyone who wants to play the game.
 Getting the smooth modular animations to work.
 
 ## GUI Mockup
-
+![](https://github.com/Kai535813/Programming-Two-Solo-Project/blob/main/Photos/IMG_1118.jpg)
 ## UML
 
